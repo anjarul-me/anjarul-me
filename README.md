@@ -23,7 +23,7 @@ Skills: HTML / CSS / BOOTSTRAP/ JAVASCRIPT / WORDPRESS / SHOPIFY
 
 - 📫 How to reach me **developeranjarul@gmail.com**
 
-- 📄 My Protfolio webste:[https://anjarul.me](https://anjarul.me)
+- 📄 My Protfolio website: [https://anjarul.me](https://anjarul.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
