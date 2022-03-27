@@ -4,25 +4,25 @@
 <h1 align="center">Hi 👋, I'm Anjarul Islam</h1>
 <h3 align="center">Full-Stack Web Developer & WordPress Expert</h3>
 
-![Profile views](https://gpvc.arturio.dev/harun181) 
 
-Welcome to my GitHub profile. I am a Full-Stack Web Developer & WordPress Expert. 
+Welcome to my GitHub profile. I am a Full-Stack Web Developer & WordPress Expert.</br>
 Knock me: m.facebook.com/anjarul.me
 
 Skills: HTML / CSS / BOOTSTRAP/ JAVASCRIPT / WORDPRESS / SHOPIFY
  
 
-- 🔭 I’m currently working on [SoroBindu Team](https:/https://sorobindu.com)
 
 - 🌱 I’m currently learning **JS, React**
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, WordPress, Shopify**
 
+- 🔭 I’m currently working on [SoroBindu Team](https:/https://sorobindu.com)
+
 - 👨‍💻 All of my projects are available at [https://github.com/anjarul-me](https://github.com/anjarul-me)
 
 - 📫 How to reach me **developeranjarul@gmail.com**
 
-- 📄 All About Me:[https://anjarul.me](https://anjarul.me)
+- 📄 My Protfolio webste:[https://anjarul.me](https://anjarul.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
