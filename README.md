@@ -1,12 +1,7 @@
- ### Hi there 👋, Hey, I'm Anjarul Islam
-#### Full-Stack Web Developer & WordPress Expert
+### Hi there 👋, Hey, I'm Anjarul Islam
+###### Full-Stack Web Developer & WordPress Expert
 ![Full-Stack Web Developer & WordPress Expert](https://mir-s3-cdn-cf.behance.net/a051f9e919466aeb24decd38fe248668/365fa768-1cc6-4636-a94d-91121f5a77e4_rwc_39x0x1521x300x1600.jpg?h=53c7458ae922b6a26034404d1f201be2)
 
-"Intro & Achievements" 
-==================
-I am Anjarul Islam a proud freelancer & who make remittance for Bangladesh by being a valuable freelancer for the world.
-Web, WordPress & WooCommerce/Shopify Developer, Dropship & eCommerce Expert 
-As a freelancer Completed 350+ Projects of 65+ country's 270+ clients at various marketplaces since 2018."
 I’m passionate about web development. I’m working a minimum of 10-12 hours every day, I love to do this it’s my life everything. My goal is to satisfy clients, try to understand what they want for their website, help them from beginning to end the project and give support for every problem. If needed I communicate by video or audio conversations to understand the problems and project requirements. After completing the website and projects I give instructions, How they can manage, edit, update, add pages, and post on the website by themselves. if needed I send video tutorials.
 
 Skills: HTML / CSS / BOOTSTRAP / JS / WORDPRESS / WOOCOMMERCE / SHOPIFY
@@ -21,13 +16,7 @@ Skills: HTML / CSS / BOOTSTRAP / JS / WORDPRESS / WOOCOMMERCE / SHOPIFY
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anjarul-me)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjarul-me)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjarul-me&show_icons=true&count_private=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anjarul-me)  
-
-![GitHub metrics](https://metrics.lecoq.io/anjarul-me)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anjarul-me)  
 
