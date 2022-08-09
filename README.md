@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anjarul Islam</h1>
-<h3 align="center">Full-Stack Web Developer & WordPress Expert</h3>
+<h3 align="center">Web Designer & WordPress Expert</h3>
 
 
 I’m passionate about web development. I’m working a minimum of 10-12 hours every day, I love to do this it’s my life everything. My goal is to satisfy clients, try to understand what they want for their website, help them from beginning to end the project and give support for every problem. If needed I communicate by video or audio conversations to understand the problems and project requirements. After completing the website and projects I give instructions, How they can manage, edit, update, add pages, and post on the website by themselves. if needed I send video tutorials..</br>
