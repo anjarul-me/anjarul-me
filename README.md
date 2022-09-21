@@ -1,6 +1,3 @@
-![I am Anjarul](https://scontent.fjsr1-1.fna.fbcdn.net/v/t39.30808-6/277249863_107248191948902_7165816558218326253_n.jpg?stp=dst-jpg_p480x480&_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeHFlYxInonwK3rMdJd7uPs1Fspt72oU0IEWym3vahTQgTi-33MkQ-KwctOHY8J3FwYv60aquUokrEUtdHR6_Hjz&_nc_ohc=ABWhBIQtEv8AX-nzl4S&_nc_zt=23&_nc_ht=scontent.fjsr1-1.fna&oh=00_AT-CjTLXuk-MDGkWJZqUtxPmyBPcb1gGQ8FRoJ-77xSEnw&oe=624E111B)
-
-
 <h1 align="center">Hi 👋, I'm Anjarul Islam</h1>
 <h3 align="center">Web Developer & WordPress Expert</h3>
 
