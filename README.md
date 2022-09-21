@@ -7,7 +7,7 @@
 
 I’m passionate about web development. I’m working a minimum of 10-12 hours every day, I love to do this it’s my life everything. My goal is to satisfy clients, try to understand what they want for their website, help them from beginning to end the project and give support for every problem. If needed I communicate by video or audio conversations to understand the problems and project requirements. After completing the website and projects I give instructions, How they can manage, edit, update, add pages, and post on the website by themselves. if needed I send video tutorials..</br>
 
-Knock me fb profile: web.facebook.com/profile.php?id=100050631277610
+Knock me fb profile: https://facebook.com/anjarul360
 
 Skills: HTML / CSS / BOOTSTRAP/ WORDPRESS / WOOCOMMERCE / CROCOBLOCK / SHOPIFY
  
@@ -15,7 +15,7 @@ Skills: HTML / CSS / BOOTSTRAP/ WORDPRESS / WOOCOMMERCE / CROCOBLOCK / SHOPIFY
 
 - 🌱 I’m currently learning **JS, React**
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, WordPress, Shopify**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap, JS, WordPress, WooCommerce, Crocoblock, Shopify**
 
 - 🔭 I’m currently working on [SoroBindu Team](https:/https://sorobindu.com)
 
@@ -23,7 +23,7 @@ Skills: HTML / CSS / BOOTSTRAP/ WORDPRESS / WOOCOMMERCE / CROCOBLOCK / SHOPIFY
 
 - 📫 How to reach me **developeranjarul@gmail.com**
 
-- 📄 My Protfolio website: [https://anjarul.me](https://anjarul.me)
+- 📄 My Protfolio website: [https://developeranjarul.com](https://developeranjarul.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
