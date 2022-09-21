@@ -10,10 +10,10 @@ I’m passionate about web development. I’m working a minimum of 10-12 hours e
 
 Skills: </br> ✅ HTML </br> ✅ CSS </br> ✅  Bootstrap </br>  ✅  JavaScript </br> ✅  Web, WordPress </br> ✅ WooCommerce/Shopify </br>✅ Dropship & eCommerce </br>
 
-- 🔭 I’m currently working on WordPress Website 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on WordPress Website 
-- 💬 Ask me about Web Development 
+- 🔭 I’m currently working on <b> WordPress Website <b/>
+- 🌱 I’m currently learning <b> JavaScript <b/>
+- 👯 I’m looking to collaborate on <b> WordPress Website <b/>
+- 💬 Ask me about <b> Web Development <b/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anjarul-me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjarul-me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anjarul360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anjaru.me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anjarul_me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/anjarul_me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18517846/anjarul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://developeranjarul.com)  
