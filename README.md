@@ -1,50 +1,39 @@
-<h1 align="center">Hi 👋, I'm Anjarul Islam</h1>
-<h3 align="center">Web Developer & WordPress Expert</h3>
+### Hi 👋, I'm Anjarul Islam
+#### I am Web Developer
+![I am Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQGBCQMYQlAu5Q/profile-displaybackgroundimage-shrink_200_800/0/1663693694458?e=1669248000&v=beta&t=O0Ckv4QouRWmtTrijboARZXLilGGW1qeDSXqQLUKNtk)
+
+I am Anjarul Islam a proud freelancer & who make remittance for Bangladesh by being a valuable freelancer for the world.
+Web, WordPress & WooCommerce/Shopify Developer, Dropship & eCommerce Expert 
+As a freelancer Completed 350 Projects for 65 countries' 270 clients at various marketplaces since 2018."
+I’m passionate about web development. I’m working a minimum of 10-12 hours every day, I love to do this it’s my life everything. My goal is to satisfy clients, try to understand what they want for their website, help them from the beginning to the end of the project, and give support for every problem. If needed I communicate by video or audio conversations to understand the problems and project requirements. After completing the website and projects I give instructions, How they can manage, edit, update, add pages, and post on the website by themselves. if needed I send video tutorials.
+
+Skills: </br> ✅ HTML </br> ✅ CSS </br> ✅  Bootstrap </br>  ✅  JavaScript </br> ✅  WordPress </br> ✅ WooCommerce  </br>✅ Crocoblock </br>
+
+- 🔭 I’m currently working on WordPress Website 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on WordPress Website 
+- 💬 Ask me about Web Development 
 
 
-I’m passionate about web development. I’m working a minimum of 10-12 hours every day, I love to do this it’s my life everything. My goal is to satisfy clients, try to understand what they want for their website, help them from beginning to end the project and give support for every problem. If needed I communicate by video or audio conversations to understand the problems and project requirements. After completing the website and projects I give instructions, How they can manage, edit, update, add pages, and post on the website by themselves. if needed I send video tutorials..</br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anjarul-me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjarul-me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anjarul360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anjaru.me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anjarul_me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/anjarul_me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/18517846/anjarul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://developeranjarul.com)  
 
-Knock me fb profile: https://facebook.com/anjarul360
+![Profile views](https://gpvc.arturio.dev/anjarul-me)  ### Hi there 👋, I'm Anjarul Islam
+#### I am Web Developer
+![I am Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQGBCQMYQlAu5Q/profile-displaybackgroundimage-shrink_200_800/0/1663693694458?e=1669248000&v=beta&t=O0Ckv4QouRWmtTrijboARZXLilGGW1qeDSXqQLUKNtk)
 
-Skills: HTML / CSS / BOOTSTRAP/ WORDPRESS / WOOCOMMERCE / CROCOBLOCK / SHOPIFY
- 
+I am Anjarul Islam a proud freelancer & who make remittance for Bangladesh by being a valuable freelancer for the world.
+Web, WordPress & WooCommerce/Shopify Developer, Dropship & eCommerce Expert 
+As a freelancer Completed 350 Projects for 65 countries' 270 clients at various marketplaces since 2018."
+I’m passionate about web development. I’m working a minimum of 10-12 hours every day, I love to do this it’s my life everything. My goal is to satisfy clients, try to understand what they want for their website, help them from the beginning to the end of the project, and give support for every problem. If needed I communicate by video or audio conversations to understand the problems and project requirements. After completing the website and projects I give instructions, How they can manage, edit, update, add pages, and post on the website by themselves. if needed I send video tutorials.
+
+Skills: </br> ✅ HTML </br> ✅ CSS </br> ✅  Bootstrap </br>  ✅  JavaScript </br> ✅  WordPress </br> ✅ WooCommerce  </br>✅ Crocoblock </br>
+
+- 🔭 I’m currently working on WordPress Website 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on WordPress Website 
+- 💬 Ask me about Web Development 
 
 
-- 🌱 I’m currently learning **JS, React**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anjarul-me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjarul-me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anjarul360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anjaru.me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anjarul_me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/anjarul_me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/18517846/anjarul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://developeranjarul.com)  
 
-- 💬 Ask me about **HTML5, CSS3, Bootstrap, JS, WordPress, WooCommerce, Crocoblock, Shopify**
-
-- 🔭 I’m currently working on [SoroBindu Team](https:/https://sorobindu.com)
-
-- 👨‍💻 All of my projects are available at [https://github.com/anjarul-me](https://github.com/anjarul-me)
-
-- 📫 How to reach me **developeranjarul@gmail.com**
-
-- 📄 My Protfolio website: [https://developeranjarul.com](https://developeranjarul.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/anjarul360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul.qcsc" height="30" width="40" /></a>
-<a href="https://twitter.com/anjarul_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anjarul-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://codepen.io/anjarul-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://instagram.com/anjarul.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://www.behance.net/anjarul_me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harun181" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjarul-me)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anjarul-me&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anjarul-me)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anjarul-me)  
-
+![Profile views](https://gpvc.arturio.dev/anjarul-me)  
