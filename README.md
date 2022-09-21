@@ -8,7 +8,7 @@ Web, WordPress & WooCommerce/Shopify Developer, Dropship & eCommerce Expert
 As a freelancer Completed 350 Projects for 65 countries' 270 clients at various marketplaces since 2018."
 I’m passionate about web development. I’m working a minimum of 10-12 hours every day, I love to do this it’s my life everything. My goal is to satisfy clients, try to understand what they want for their website, help them from the beginning to the end of the project, and give support for every problem. If needed I communicate by video or audio conversations to understand the problems and project requirements. After completing the website and projects I give instructions, How they can manage, edit, update, add pages, and post on the website by themselves. if needed I send video tutorials.
 
-Skills: </br> ✅ HTML </br> ✅ CSS </br> ✅  Bootstrap </br>  ✅  JavaScript </br> ✅  WordPress </br> ✅ WooCommerce  </br>✅ Crocoblock </br>
+Skills: </br> ✅ HTML </br> ✅ CSS </br> ✅  Bootstrap </br>  ✅  JavaScript </br> ✅  Web, WordPress </br> ✅ WooCommerce/Shopify </br>✅ Dropship & eCommerce </br>
 
 - 🔭 I’m currently working on WordPress Website 
 - 🌱 I’m currently learning JavaScript 
