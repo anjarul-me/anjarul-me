@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Anjarul Islam
-#### I am Web Developer
 ![I am Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQGBCQMYQlAu5Q/profile-displaybackgroundimage-shrink_200_800/0/1663693694458?e=1669248000&v=beta&t=O0Ckv4QouRWmtTrijboARZXLilGGW1qeDSXqQLUKNtk)
+
+### Hi 👋, I'm Anjarul Islam
+#### I am Web Developer
 
 I am Anjarul Islam a proud freelancer & who make remittance for Bangladesh by being a valuable freelancer for the world.
 Web, WordPress & WooCommerce/Shopify Developer, Dropship & eCommerce Expert 
