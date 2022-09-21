@@ -9,7 +9,7 @@ I’m passionate about web development. I’m working a minimum of 10-12 hours e
 
 Knock me fb profile: web.facebook.com/profile.php?id=100050631277610
 
-Skills: HTML / CSS / BOOTSTRAP/ JAVASCRIPT / WORDPRESS / SHOPIFY
+Skills: HTML / CSS / BOOTSTRAP/ WORDPRESS / WOOCOMMERCE / CROCOBLOCK / SHOPIFY
  
 
 
