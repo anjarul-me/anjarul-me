@@ -1,8 +1,6 @@
-![I am Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQGBCQMYQlAu5Q/profile-displaybackgroundimage-shrink_200_800/0/1663693694458?e=1669248000&v=beta&t=O0Ckv4QouRWmtTrijboARZXLilGGW1qeDSXqQLUKNtk)
-
-### Hi 👋, I'm Anjarul Islam
+### Hi there 👋, I'm Anjarul Islam
 #### I am Web Developer
-
+![I am Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQGBCQMYQlAu5Q/profile-displaybackgroundimage-shrink_200_800/0/1663693694458?e=1669248000&v=beta&t=O0Ckv4QouRWmtTrijboARZXLilGGW1qeDSXqQLUKNtk)
 
 I am Anjarul Islam a proud freelancer & who make remittance for Bangladesh by being a valuable freelancer for the world.
 Web, WordPress & WooCommerce/Shopify Developer, Dropship & eCommerce Expert 
@@ -17,6 +15,6 @@ Skills: </br> ✅ HTML </br> ✅ CSS </br> ✅  Bootstrap </br>  ✅  JavaScript
 - 💬 Ask me about Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anjarul-me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjarul-me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anjarul360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anjaru.me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anjarul_me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/anjarul_me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/https://stackoverflow.com/anjarul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://developeranjarul.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anjarul-me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anjarul-me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anjarul360)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anjaru.me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anjarul_me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/anjarul_me)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/anjarul-islam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://developeranjarul.com)  
 
 ![Profile views](https://gpvc.arturio.dev/anjarul-me)  
